@@ -1,5 +1,12 @@
 first line in the loginfeature.text
+<<<<<<< HEAD
 second line
 Add hot fix hehehe toi cap nhat thong tin
 Day la thong tin duoc cap nhat tu develop branch
 Okay Okay
+=======
+day la thong tin tu feature/login branch okay okay
+hehehehe
+hehehehe
+hehehehe
+>>>>>>> feature/login
